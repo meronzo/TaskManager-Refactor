@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MuiAccordion-gutters {
+    margin: 1px 0 !important;
+}
+
+.css-2wfdgu-MuiPaper-root-MuiAccordion-root {
+    border: none !important;
+}
+
+.css-o4b71y-MuiAccordionSummary-content p {
+    font-size: 18px !important;
+}
+
+.css-o4b71y-MuiAccordionSummary-content {
+    padding: 8px 0 !important;
+}
+
+.css-2wfdgu-MuiPaper-root-MuiAccordion-root:first-of-type,
+.css-2wfdgu-MuiPaper-root-MuiAccordion-root:last-of-type:last-of-type {}
+
+.css-2wfdgu-MuiPaper-root-MuiAccordion-root {
+    border-radius: 10px !important;
+    max-width: 96%;
+}
+
+.TaskTitle {
+    
+}
+
+.TaskDate {
+    margin-right: 12px !important;
+    font-size: 16px !important;
+}

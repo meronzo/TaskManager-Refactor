@@ -1,0 +1,12 @@
+[
+    {
+        "name": "apple",
+        "price": 200,
+        "rank": 3.5
+    },
+    {
+        "name": "banana",
+        "price": 2000,
+        "rank": 5
+    }
+]

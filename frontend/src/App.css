@@ -1,0 +1,9 @@
+body {
+  background: rgb(48, 53, 124);
+  background: linear-gradient(106deg, rgba(48, 53, 124, 1) 0%, rgba(58, 92, 170, 1) 67%, rgba(69, 136, 222, 1) 100%);
+}
+
+.TaskFields {
+  height: calc(100vh - 56px);
+  overflow-y: scroll;
+}
